@@ -1,0 +1,38 @@
+*{
+    color: #4ECCA3;
+}
+body{
+    background-color: #393E46;
+}
+.container{
+    width: 60%;
+    display: flex;
+    text-align: center;
+    margin: auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 8rem;
+    font-family: 'Lobster', cursive;
+    margin: 10px;
+}
+h3{
+    font-size: 2rem;
+    font-family: 'Indie Flower', cursive;
+    margin: 20px;
+    padding: 10px;
+}
+.board{
+    display: flex;
+    gap: 40px;
+}
+
+img{
+   width: 80%;
+}
+footer{ 
+    color: white;
+    margin-top: 20px;
+}
